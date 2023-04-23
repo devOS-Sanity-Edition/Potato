@@ -5,7 +5,7 @@ Potato
 
 If you fork this you can say that you forked a potato.
 
-yeet
+~~yeet~~
 
 ![potato](http://i.imgur.com/dRnvRZZ.jpg)
 
